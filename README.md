@@ -20,3 +20,8 @@ A Node.js and Express-based app that tracks and shares user location in real-tim
 - Express
 - Socket.IO
 - Leaflet
+# 🚀 Live Tracker
+
+### 🌐 [Click here to try the Live App](https://live-tracker.onrender.com)
+
+This app allows real-time location tracking using Node.js, Express, and WebSockets.
